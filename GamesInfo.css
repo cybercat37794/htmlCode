@@ -1,0 +1,56 @@
+body{
+	background: #12123b;
+}
+
+h1, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+	background-color: #040323;
+	text-align: left;
+	line-height: 200%;
+}
+
+h2, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+	background-color: #040323;
+	text-align: center;
+	line-height: 200%;
+}
+
+h3, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+	font-variant: small-caps;
+	background-color: #040323;
+	text-align: left;
+	line-height: 200%;
+
+}
+
+h4, span{
+	font-family: comic sans ms;
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif !important;
+	font-variant: small-caps;
+	color: #f91c2e;
+	background-color: #040323;
+	text-align: center;
+	line-height: 200%;
+}
+details{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+}
+summary{
+	font-style: italic;
+}
+
+table{
+	color: #f91c2e;
+}
+
+footer{
+	background: #040323; 
+	color: #f91c2e;
+	line-height: 200%;
+}
