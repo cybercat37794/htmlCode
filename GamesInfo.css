@@ -1,56 +1,75 @@
 body{
 	background: #12123b;
+	margin: 10px;
 }
 
 h1, span{
 	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	padding: 15px;
 	color: #f91c2e;
-	background-color: #040323;
-	text-align: left;
+	background-color: #00001e;
 	line-height: 200%;
+	text-align: left;
+
+/*	float: left;
+	margin-right: 2%;
+	clear: both;*/
 }
 
 h2, span{
 	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
 	color: #f91c2e;
-	background-color: #040323;
-	text-align: center;
+	background-color: #00001e;
 	line-height: 200%;
+	text-align: center;	
 }
 
 h3, span{
 	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
-	color: #f91c2e;
 	font-variant: small-caps;
-	background-color: #040323;
-	text-align: left;
+	font-size: 20px;
+	padding: 15px;
+	color: #f91c2e;	
+	background-color: #00001e;
 	line-height: 200%;
-
+	text-align: left;
 }
 
 h4, span{
 	font-family: comic sans ms;
 	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif !important;
 	font-variant: small-caps;
+	font-size: 150%;
 	color: #f91c2e;
-	background-color: #040323;
-	text-align: center;
+	background-color: #00001e;
+	line-height: 200%;
+	text-align: center;	
+}
+
+summary{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	font-style: italic;
+	font-size: 20px; 
 	line-height: 200%;
 }
+
 details{
 	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
 	color: #f91c2e;
-}
-summary{
-	font-style: italic;
+	font-size: 20px; 
+	line-height: 100%;
 }
 
 table{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	font-size: 20px;
+	border: solid 5px #00001e;
 	color: #f91c2e;
 }
 
 footer{
-	background: #040323; 
+	background: #00001e; 
 	color: #f91c2e;
 	line-height: 200%;
 }
+
